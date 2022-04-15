@@ -40,3 +40,6 @@ void loop() {
   
   # ImAgEs!!!1!
   ![image](https://cdnn21.img.ria.ru/images/151546/28/1515462835_0:0:1036:588_1440x900_80_0_1_10e565846387caa35f38ca7ba5addc61.jpg.webp?source-sid=depositphotos)
+  
+  # ссылки
+  1. [other md](README_2.md)
