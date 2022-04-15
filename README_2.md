@@ -8,4 +8,4 @@
 ```
 
 ## ссылки
-1. [other mdfile](uip_3/README.md)
+1. [other mdfile](README.md)
